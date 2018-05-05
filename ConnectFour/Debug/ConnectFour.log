@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\dayem\downloads\connectfour\connectfour\connectfour\main.c(11): warning C4013: 'time' undefined; assuming extern returning int
+  ConnectFour.vcxproj -> C:\Users\dayem\Downloads\ConnectFour\ConnectFour\Debug\ConnectFour.exe
+  ConnectFour.vcxproj -> C:\Users\dayem\Downloads\ConnectFour\ConnectFour\Debug\ConnectFour.pdb (Full PDB)
